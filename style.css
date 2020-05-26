@@ -1,0 +1,72 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  scroll-behavior: smooth;
+}
+
+a:hover {
+	text-decoration: none !important;
+}
+
+/* senior project */
+
+.project-wrapper {
+	height: 100%;
+	background-color: #f8f9fa
+}
+
+.project-title-div {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.project-title-col {
+	display: flex;
+	align-items: center;
+}
+
+.project-main-img {
+	width: 300px;
+}
+
+.project-hr {
+	border: 1px solid #DED55B;
+	margin: 20px 2% 20px 2%;
+}
+
+.project-description {
+	margin-bottom: 20px;
+}
+
+.carousel {
+	width: inherit;
+}
+
+.carousel-item {
+	background-color: #adb5bd;
+}
+
+.d-block {
+	height: 320px;
+}
+
+.project-img-caption {
+	float: right;
+	position: relative;
+	bottom: 290px;
+	margin-right: 30px;
+	height: 0px;
+	max-width: 230px;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+	width: 35px;
+	height: 35px;
+}
+
+/* personal website */
+
+.my-info {
+	background-color: #EFE88A;
+	height: 40%;
+}
