@@ -1,6 +1,7 @@
 html, body {
   margin: 0;
   scroll-behavior: smooth;
+  height: 100%
 }
 
 a:hover {
@@ -11,12 +12,13 @@ a:hover {
 
 .project-wrapper {
 	height: 100%;
-	background-color: #f8f9fa
+	background-color: #f8f9fa;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .project-title-div {
 	text-align: center;
-	padding-top: 30px;
+	padding-top: 20px;
 }
 
 .project-title-col {
@@ -46,16 +48,16 @@ a:hover {
 }
 
 .d-block {
-	height: 320px;
+	height: 250px;
 }
 
 .project-img-caption {
 	float: right;
 	position: relative;
-	bottom: 290px;
-	margin-right: 30px;
+	bottom: 240px;
+	margin-right: 65px;
 	height: 0px;
-	max-width: 230px;
+	max-width: 280px;
 }
 
 .carousel-control-next-icon, .carousel-control-prev-icon {
