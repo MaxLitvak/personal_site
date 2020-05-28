@@ -1,1 +1,1 @@
-My personal website. Right now I am using it for my senior project display.
+Website for my senior project: building an adirondack chair

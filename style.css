@@ -2,18 +2,12 @@ html, body {
   margin: 0;
   scroll-behavior: smooth;
   height: 100%
+  background-color: #f8f9fa;
+	font-family: 'Montserrat', sans-serif !important;
 }
 
 a:hover {
 	text-decoration: none !important;
-}
-
-/* senior project */
-
-.project-wrapper {
-	height: 100%;
-	background-color: #f8f9fa;
-	font-family: 'Montserrat', sans-serif;
 }
 
 .project-title-div {
@@ -63,11 +57,4 @@ a:hover {
 .carousel-control-next-icon, .carousel-control-prev-icon {
 	width: 35px;
 	height: 35px;
-}
-
-/* personal website */
-
-.my-info {
-	background-color: #EFE88A;
-	height: 40%;
 }
